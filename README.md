@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pxpig4ewq0b7fc3r?svg=true)](https://ci.appveyor.com/project/LiBrisk/homeworkautojava5patterns)
